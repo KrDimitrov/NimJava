@@ -3,7 +3,7 @@ _But in Java_
 
 ## Usage ##
 
-Clone this repo and complie with `javac main.java` and run with `java nim` **or** just run with `java num`
+Clone this repo and complie with `javac main.java` and run with `java nim` **or** just run with `java nim`
 
 
 
