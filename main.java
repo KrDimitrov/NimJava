@@ -13,6 +13,7 @@ class nim {
       PlayersTurn();
       ComputersTurn();
     }
+    sc.close();
   }
 
   static boolean ComputersTurn(){
